@@ -23,6 +23,8 @@ You can click the Preview link to take a look at your changes.
  
 <div align="center">
 <p> 
-<img src="https://github.com/omotomiwa26/omotomiwa26/blob/main/143476-steve-jobs-computer-programming-quote.jpg" />
+<img src="https://github.com/omotomiwa26/omotomiwa26/blob/main/143476-steve-jobs-computer-programming-quote.jpg" /> <img src="https://github.com/omotomiwa26/omotomiwa26/blob/main/aCU2TV2.png" /> 
 </p>
  </div>
+ 
+ 
