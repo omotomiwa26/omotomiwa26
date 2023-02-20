@@ -1,4 +1,5 @@
-<img src="https://https://user-images.githubusercontent.com/63565116/220155176-d7804063-81b6-4e07-b8ae-6dcf18186d4a.jpg" />
+<img src="143476-steve-jobs-computer-programming-quote](https://user-images.githubusercontent.com/63565116/220157089-30a5de2b-7051-4a15-b4ae-7c4e4cb53157.jpg" />
+
 
 
 - 👋 Hi, I’m @omotomiwa26
@@ -23,3 +24,4 @@ You can click the Preview link to take a look at your changes.
  
 
 
+![)
