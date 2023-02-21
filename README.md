@@ -1,4 +1,4 @@
-My name is [Omotomiwa](https://linktr.ee/omotomiwa). I am a software engineering student at [ALX Africa](https://www.alxafrica.com) with interest in Data Science, Machine Learning and Artificial Intelligence. A Proficient programmer, i speak [C](https://www.c.com), [Java](https://www.java.com) and [Python](https://www.python.com) to [computers](https://www.computers.com) with indept knowledge of [SQL](https://www.SQL.com) database languages. <br/>
+My name is [Omotomiwa](https://github.com/omotomiwa26). I am a software engineering student at [ALX Africa](https://www.alxafrica.com) with interest in `Data Science`, `Machine Learning` and `Artificial Intelligence`. A Proficient programmer, i speak `C`, `Java` and `Python` to ***computers*** with indept knowledge of `SQL` database languages. <br/>
 
 <div align="center">
 <p> 
@@ -7,11 +7,6 @@ My name is [Omotomiwa](https://linktr.ee/omotomiwa). I am a software engineering
 </p>
  </div>
  
-
-<!---
-omotomiwa26/omotomiwa26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 <div align="center">
 <p>
 
@@ -23,7 +18,7 @@ You can click the Preview link to take a look at your changes.
  
 <div align="center">
 <p> 
-<img src="https://github.com/omotomiwa26/omotomiwa26/blob/main/143476-steve-jobs-computer-programming-quote.jpg" /> <img src="https://github.com/omotomiwa26/omotomiwa26/blob/main/aCU2TV2.png" /> 
+<img src="https://github.com/omotomiwa26/omotomiwa26/blob/main/143476-steve-jobs-computer-programming-quote.jpg" /> <img src="https://github.com/omotomiwa26/omotomiwa26/blob/main/those-who-dont-know-how-to-code-soon-will-be.png" /> 
 </p>
  </div>
  
