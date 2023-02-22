@@ -1,4 +1,4 @@
-My name is [Omotomiwa](https://github.com/omotomiwa26) 👋 I am a software engineering student 📚 at [ALX Africa](https://www.alxafrica.com) with interest in `Data Science`, `Machine Learning` and `Artificial Intelligence`. A Proficient programmer, i speak `C`, `Java` and `Python` to ***computers*** 🖥️ with indept knowledge of `SQL` database languages. <br/>
+My name is [Omotomiwa](https://github.com/omotomiwa26) 👋 I am a software engineering 👨‍💻 student 👨‍🎓 📚 at [ALX Africa](https://www.alxafrica.com) with interest in `Data Science`, `Machine Learning` and `Artificial Intelligence`. A Proficient programmer, i speak `C`, `Java` and `Python` to ***computers*** 🖥️ with indept knowledge of `SQL` database languages. Basic and Intermediate knowledge of __Shell__ __Scripts__, __Command__ __Line__ __Interface__, __Linux__, __Unix__ as well as **Vi** and **Emacs** text editors 📃 <br/>
 
 <div align="center">
 <p> 
@@ -10,8 +10,8 @@ My name is [Omotomiwa](https://github.com/omotomiwa26) 👋 I am a software engi
 <div align="center">
 <p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=10/?username=omotomiwa26&theme=radical&layout=compact)](https://github.com/omotomiwa26/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=omotomiwa26&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omotomiwa26&langs_count=10/?username=omotomiwa26&theme=radical&layout=compact)](https://github.com/omotomiwa26/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=omotomiwa26&show_icons=true&theme=radical)
 
 </p>
  </div>
