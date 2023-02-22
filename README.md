@@ -1,4 +1,4 @@
-My name is [Omotomiwa](https://github.com/omotomiwa26). I am a software engineering student at [ALX Africa](https://www.alxafrica.com) with interest in `Data Science`, `Machine Learning` and `Artificial Intelligence`. A Proficient programmer, i speak `C`, `Java` and `Python` to ***computers*** with indept knowledge of `SQL` database languages. <br/>
+My name is [Omotomiwa](https://github.com/omotomiwa26) 👋 I am a software engineering student 📚 at [ALX Africa](https://www.alxafrica.com) with interest in `Data Science`, `Machine Learning` and `Artificial Intelligence`. A Proficient programmer, i speak `C`, `Java` and `Python` to ***computers*** 🖥️ with indept knowledge of `SQL` database languages. <br/>
 
 <div align="center">
 <p> 
