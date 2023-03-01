@@ -25,19 +25,9 @@ My name is [Omotomiwa](https://github.com/omotomiwa26) 👋 I am a software engi
   ![EclipseJeeNeon](https://img.shields.io/badge/-EclipseJeeNeon-05122A?style=flat&logo=Eclipse-Jee-Neon)
   ![VisualStudioCode](https://img.shields.io/badge/-VisualStudioCode-05122A?style=flat&logo=Visual-Studio-Code)
   ![PowerBiDesktop](https://img.shields.io/badge/-PowerBiDesktop-05122A?style=flat&logo=Power-Bi-Desktop)
-  
+
   </p>
- </div>
-
-  
-  <div align="center">
-<p> 
-  <a href="https://twitter.com/i_am_omotomiwa" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> 
-  <a href="https://www.linkedin.com/in/afonja-omotomiwa-6b80b61b2/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
-</p>
- </div>
-
- 
+ </div> 
  
 <div align="center">
 <p>
@@ -47,6 +37,14 @@ My name is [Omotomiwa](https://github.com/omotomiwa26) 👋 I am a software engi
 
 </p>
  </div>
+ 
+   <div align="center">
+<p> 
+  <a href="https://twitter.com/i_am_omotomiwa" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> 
+  <a href="https://www.linkedin.com/in/afonja-omotomiwa-6b80b61b2/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+</p>
+ </div>
+
  
 <div align="center">
 <p> 
