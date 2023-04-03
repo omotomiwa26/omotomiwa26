@@ -32,9 +32,8 @@ My name is [Omotomiwa](https://github.com/omotomiwa26) 👋 I am a _software_ _e
 <div align="center">
 <p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omotomiwa26&langs_count=10/?username=omotomiwa26&theme=radical&layout=compact)](https://github.com/omotomiwa26/github-readme-stats)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=omotomiwa26&show_icons=true&theme=radical)
-
+![Omotomiwa26's GitHub stats](https://github-readme-stats.vercel.app/api?username=omotomiwa26)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omotomiwa26)
 </p>
  </div>
  
