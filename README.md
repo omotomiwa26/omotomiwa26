@@ -34,7 +34,8 @@ My name is [Omotomiwa](https://github.com/omotomiwa26) 👋 I am a _software_ _e
 
 ![Omotomiwa26's GitHub stats](https://github-readme-stats.vercel.app/api?username=omotomiwa26&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omotomiwa26&show_icons=true&theme=tokyonight&langs_count=10&layout=compact)
-</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Programming+is+an+attempt+to+create;a+representation+of+reality;on+the+computer.)](https://git.io/typing-svg)
+ </p>
  </div>
  
    <div align="center">
@@ -50,5 +51,7 @@ My name is [Omotomiwa](https://github.com/omotomiwa26) 👋 I am a _software_ _e
 <img src="https://github.com/omotomiwa26/omotomiwa26/blob/main/143476-steve-jobs-computer-programming-quote.jpg" /> <img src="https://github.com/omotomiwa26/omotomiwa26/blob/main/those-who-dont-know-how-to-code-soon-will-be.png" /> 
 </p>
  </div>
+ 
+ 
  
  
