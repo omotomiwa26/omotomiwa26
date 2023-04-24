@@ -32,8 +32,8 @@ My name is [Omotomiwa](https://github.com/omotomiwa26) 👋 I am a _software_ _e
 <div align="center">
 <p>
 
-![Omotomiwa26's GitHub stats](https://github-readme-stats.vercel.app/api?username=omotomiwa26&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omotomiwa26&show_icons=true&theme=tokyonight&langs_count=10&layout=compact)
+![Omotomiwa26's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=omotomiwa26&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=omotomiwa26&show_icons=true&theme=tokyonight&langs_count=10&layout=compact)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Programming+is+an+attempt+to+create;a+representation+of+reality;on+the+computer.)](https://git.io/typing-svg)
  </p>
  </div>
