@@ -33,7 +33,7 @@ My name is [Omotomiwa](https://github.com/omotomiwa26) 👋 I am a _software_ _e
 <p>
 
 ![Omotomiwa26's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=omotomiwa26&show_icons=true&theme=tokyonight)
-![Omotomiwa26's Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=omotomiwa26&show_icons=true&theme=tokyonight&langs_count=10&layout=compact)
+![Omotomiwa26's Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=omotomiwa26&show_icons=true&theme=tokyonight&langs_count=3&layout=compact)
  
   </p>
  </div>
