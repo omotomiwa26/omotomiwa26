@@ -1,4 +1,4 @@
-My name is [Omotomiwa](https://github.com/omotomiwa26) 👋 I am a _software_ _engineering_ 👨‍💻 student 👨‍🎓 📚 at [ALX Africa](https://www.alxafrica.com) with interest in `Data Science`, `Machine Learning` and `Artificial Intelligence`. A Proficient programmer, i speak `C`, `Java` and `Python` to ***computers*** 🖥️ with indept knowledge of `SQL` database languages. Basic and Intermediate knowledge of __Shell__ __Scripts__, __Command__ __Line__ __Interface__, __Linux__, __Unix__ as well as **Vi** and **Emacs** text editors 📃 <br/>
+My name is [Omotomiwa](https://github.com/omotomiwa26) 👋 I am a _software_ _engineering_ 👨‍💻 student 👨‍🎓 📚 at [ALX Africa](https://www.alxafrica.com) with interest in `Data Science`, `Machine Learning` and `Artificial Intelligence`. A Proficient programmer, i speak `C`, `Java` and `Python` to ***computers*** 🖥️ with indept knowledge of `SQL` database languages. Basic and Intermediate knowledge of __Shell__ and __Bash__ __Scripts__, __Command__ __Line__ __Interface__, __Linux__, __Unix__ as well as **Vi** and **Emacs** text editors 📃 <br/>
 
  <div align="center">
 <p> 
