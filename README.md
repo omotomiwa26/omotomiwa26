@@ -3,8 +3,8 @@ My name is [Omotomiwa](https://github.com/omotomiwa26) 👋 I am a _software_ _e
  <div align="center">
 <p> 
  
-  ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java)
-  ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo)
+  ![Java](https://img.shields.io/badge/-Java-05122A?style=plastic&logo=Java)
+  ![C](https://img.shields.io/badge/-C-05122A?style=plastic&logo)
   ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
   ![VB.NET](https://img.shields.io/badge/-VB.NET-05122A?style=flat&logo=visual-basic.NET)
   ![Shell](https://img.shields.io/badge/-Shell-05122A?style=flat&logo=shell)
@@ -25,13 +25,13 @@ My name is [Omotomiwa](https://github.com/omotomiwa26) 👋 I am a _software_ _e
   ![EclipseJeeNeon](https://img.shields.io/badge/-EclipseJeeNeon-05122A?style=flat&logo=Eclipse-Jee-Neon)
   ![VisualStudioCode](https://img.shields.io/badge/-VisualStudioCode-05122A?style=flat&logo=Visual-Studio-Code)
   ![PowerBiDesktop](https://img.shields.io/badge/-PowerBiDesktop-05122A?style=flat&logo=Power-Bi-Desktop)
-
+ 
   </p>
  </div> 
  
 <div align="center">
 <p>
-
+ 
 ![Omotomiwa26's GitHub stats](https://https-github-com-omotomiwa26-github-read-git-054ecc-omotomiwa26.vercel.app/api?username=omotomiwa26&show_icons=true&theme=tokyonight)
  
 ![Omotomiwa26's Top Langs](https://https-github-com-omotomiwa26-github-read-git-054ecc-omotomiwa26.vercel.app/api/top-langs/?username=omotomiwa26&show_icons=true&theme=tokyonight&langs_count=8&layout=compact)
@@ -43,20 +43,24 @@ My name is [Omotomiwa](https://github.com/omotomiwa26) 👋 I am a _software_ _e
 <p>
  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Programming+is+an+attempt+to+create;a+representation+of;reality+on+the+computer.)](https://git.io/typing-svg)
-
+ 
  </p>
  </div>
  
    <div align="center">
 <p> 
+ 
   <a href="https://twitter.com/i_am_omotomiwa" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> 
   <a href="https://www.linkedin.com/in/afonja-omotomiwa-6b80b61b2/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+ 
 </p>
  </div>
 
 <div align="center">
 <p> 
+ 
 <img src="https://github.com/omotomiwa26/omotomiwa26/blob/main/143476-steve-jobs-computer-programming-quote.jpg" /> <img src="https://github.com/omotomiwa26/omotomiwa26/blob/main/those-who-dont-know-how-to-code-soon-will-be.png" /> 
+ 
 </p>
  </div>
  
