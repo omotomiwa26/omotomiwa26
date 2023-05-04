@@ -23,7 +23,7 @@ My name is [Omotomiwa](https://github.com/omotomiwa26) 👋 I am a _software_ _e
   ![Azure Data Studio](https://img.shields.io/badge/-Azure%20Data%20Studio-05122A?style=plastic&logo=microsoftazure)
   ![MySQL Workbench](https://img.shields.io/badge/-MySQL%20Workbench-05122A?style=plastic&logo=mysql)
   ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-05122A?style=plastic&logo=Visual-Studio)
-  ![Eclipse Jee Neon](https://img.shields.io/badge/-Eclipse%20Jee%20Neon-05122A?style=plastic&logo=Eclipse-Jee-Neon)
+  ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=plastic&logo=Eclipse)
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=plastic&logo=Visual-Studio-Code)
   ![PowerBi Desktop](https://img.shields.io/badge/-PowerBi%20Desktop-05122A?style=plastic&logo=PowerBi-Desktop)
  
