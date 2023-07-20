@@ -32,13 +32,10 @@ My name is [Omotomiwa](https://github.com/omotomiwa26) 👋 I am a _software_ _e
  </div> 
  
 <div align="center">
-<p>
  
-![Omotomiwa26's GitHub stats](https://https-github-com-omotomiwa26-github-read-git-054ecc-omotomiwa26.vercel.app/api?username=omotomiwa26&show_icons=true&theme=tokyonight)
- 
+![Omotomiwa26's GitHub stats](https://https-github-com-omotomiwa26-github-read-git-054ecc-omotomiwa26.vercel.app/api?username=omotomiwa26&show_icons=true&theme=tokyonight) 
 ![Omotomiwa26's Top Langs](https://https-github-com-omotomiwa26-github-read-git-054ecc-omotomiwa26.vercel.app/api/top-langs/?username=omotomiwa26&show_icons=true&theme=tokyonight&langs_count=8&layout=compact)
- 
-  </p>
+
  </div>
  
  <div align="center">
