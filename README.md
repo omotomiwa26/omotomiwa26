@@ -15,6 +15,7 @@ My name is [Omotomiwa](https://github.com/omotomiwa26) 👋 I am a _software_ _e
   ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=plastic&logo=github)
   ![Wakatimt](https://img.shields.io/badge/-Wakatime-05122A?style=plastic&logo=wakatime)
   ![Linux](https://img.shields.io/badge/-Linux-05122A?style=plastic&logo=linux)
+  ![Vagrant](https://img.shields.io/badge/-Vagrant-05122A?style=plastic&logo=vagrant)
   ![Ubuntu](https://img.shields.io/badge/-Ubuntu-05122A?style=plastic&logo=ubuntu)
   ![MicrosoftSQLServer](https://img.shields.io/badge/-Microsoft%20SQL%20Server-05122A?style=plastic&logo=microsoft%20sql%20server)
   ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=plastic&logo=mysql)
