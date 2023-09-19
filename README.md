@@ -28,6 +28,7 @@ My name is [Omotomiwa](https://github.com/omotomiwa26) 👋 I am a _software_ _e
   ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=plastic&logo=Eclipse)
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=plastic&logo=Visual-Studio-Code)
   ![PowerBi Desktop](https://img.shields.io/badge/-PowerBi%20Desktop-05122A?style=plastic&logo=PowerBi-Desktop)
+  ![Trello](https://img.shields.io/badge/-Trello-05122A?style=plastic&logo=trello)
  
   </p>
  </div> 
