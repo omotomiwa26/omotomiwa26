@@ -14,6 +14,7 @@ My name is [Omotomiwa](https://github.com/omotomiwa26) 👋 I am a _software_ _e
   ![Git](https://img.shields.io/badge/-Git-05122A?style=plastic&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=plastic&logo=github)
   ![Wakatimt](https://img.shields.io/badge/-Wakatime-05122A?style=plastic&logo=wakatime)
+  ![Vercel](https://img.shields.io/badge/-Vercel-05122A?style=plastic&logo=vercel)
   ![Linux](https://img.shields.io/badge/-Linux-05122A?style=plastic&logo=linux)
   ![Vagrant](https://img.shields.io/badge/-Vagrant-05122A?style=plastic&logo=vagrant)
   ![Ubuntu](https://img.shields.io/badge/-Ubuntu-05122A?style=plastic&logo=ubuntu)
@@ -35,8 +36,11 @@ My name is [Omotomiwa](https://github.com/omotomiwa26) 👋 I am a _software_ _e
  
 <div align="center">
  
-![Omotomiwa26's GitHub stats](https://https-github-com-omotomiwa26-github-read-git-054ecc-omotomiwa26.vercel.app/api?username=omotomiwa26&show_icons=true&theme=tokyonight) 
+![Omotomiwa26's GitHub stats](https://https-github-com-omotomiwa26-github-read-git-054ecc-omotomiwa26.vercel.app/api?username=omotomiwa26&show_icons=true&theme=tokyonight)
+<img src ="https://github-readme-streak-stats.herokuapp.com?user=omotomiwa26&theme=tokyonight">
+
 ![Omotomiwa26's Top Langs](https://https-github-com-omotomiwa26-github-read-git-054ecc-omotomiwa26.vercel.app/api/top-langs/?username=omotomiwa26&show_icons=true&theme=tokyonight&langs_count=10&layout=compact)
+<img src ="https://github-readme-stats.vercel.app/api/wakatime?username=@omotomiwa26&show_icons=true&theme=tokyonight&layout=compact">
 
  </div>
  
@@ -64,7 +68,3 @@ My name is [Omotomiwa](https://github.com/omotomiwa26) 👋 I am a _software_ _e
  
 </p>
  </div>
- 
- 
- 
- 
