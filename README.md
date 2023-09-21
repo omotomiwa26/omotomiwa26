@@ -37,8 +37,6 @@ My name is [Omotomiwa](https://github.com/omotomiwa26) 👋 I am a _software_ _e
 <div align="center">
  
 ![Omotomiwa26's GitHub stats](https://https-github-com-omotomiwa26-github-read-git-054ecc-omotomiwa26.vercel.app/api?username=omotomiwa26&show_icons=true&theme=tokyonight)
-<img src ="https://github-readme-streak-stats.herokuapp.com?user=omotomiwa26&theme=tokyonight">
-
 ![Omotomiwa26's Top Langs](https://https-github-com-omotomiwa26-github-read-git-054ecc-omotomiwa26.vercel.app/api/top-langs/?username=omotomiwa26&show_icons=true&theme=tokyonight&langs_count=10&layout=compact)
 <img src ="https://github-readme-stats.vercel.app/api/wakatime?username=@omotomiwa26&show_icons=true&theme=tokyonight&layout=compact">
 
