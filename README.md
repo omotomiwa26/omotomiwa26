@@ -1,4 +1,10 @@
-My name is [Omotomiwa](https://github.com/omotomiwa26) 👋 I am a _software_ _engineering_ 👨‍💻 student 👨‍🎓 📚 at [ALX Africa](https://www.alxafrica.com) with interest in `Data Science`, `Machine Learning` and `Artificial Intelligence`. A Proficient programmer, I speak `C`, `Java` and `Python` to ***computers*** 🖥️ with indept knowledge of `SQL` database languages. Basic and Intermediate knowledge of __Shell__ and __Bash__ __Scripts__, __Command__ __Line__ __Interface__, __Linux__, __Unix__ as well as **Vi** and **Emacs** text editors 📃 <br/>
+<div align="center">
+<p>
+ 
+My name is [Omotomiwa](https://github.com/omotomiwa26) 👋 I am a _software_ _engineering_ 👨‍💻 student 👨‍🎓 📚 at [ALX Africa](https://www.alxafrica.com) with interest in `Data Science`, `Machine Learning` and `Artificial Intelligence`. A Proficient programmer, I speak `C`, `Java` and `Python` to ***computers*** 🖥️ with indept knowledge of `SQL` database languages. Basic and Intermediate knowledge of __Shell__ and __Bash__ __Scripts__, __Command__ __Line__ __Interface__, __Linux__, __Unix__ as well as **Vi** and **Emacs** text editors 📃 
+
+ </p>
+ </div> 
 
  <div align="center">
 <p> 
@@ -6,7 +12,7 @@ My name is [Omotomiwa](https://github.com/omotomiwa26) 👋 I am a _software_ _e
   ![Java](https://img.shields.io/badge/-Java-05122A?style=plastic&logo=openjdk)
   ![C](https://img.shields.io/badge/-C-05122A?style=plastic&logo=C)
   ![Python](https://img.shields.io/badge/-Python-05122A?style=plastic&logo=python)
-  ![.Net](https://img.shields.io/badge/-.Net-05122A?style=plastic&logo=.Net)
+  ![DotNet](https://img.shields.io/badge/-VB.Net-05122A?style=plastic&logo=dotNet)
   ![Shell Script](https://img.shields.io/badge/-Shell_Script-05122A?style=plastic&logo=gnu-bash)
   ![Bash](https://img.shields.io/badge/-Bash-05122A?style=plastic&logo=gnu-bash)
   ![Vim](https://img.shields.io/badge/-Vim-05122A?style=plastic&logo=vim)
@@ -37,6 +43,9 @@ My name is [Omotomiwa](https://github.com/omotomiwa26) 👋 I am a _software_ _e
 <div align="center">
  
 ![Omotomiwa26's GitHub stats](https://https-github-com-omotomiwa26-github-read-git-054ecc-omotomiwa26.vercel.app/api?username=omotomiwa26&show_icons=true&theme=tokyonight)
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=omotomiwa26&&show_icons=true&theme=tokyonight" alt="omotomiwa26"/>
+
 ![Omotomiwa26's Top Langs](https://https-github-com-omotomiwa26-github-read-git-054ecc-omotomiwa26.vercel.app/api/top-langs/?username=omotomiwa26&show_icons=true&theme=tokyonight&langs_count=10&layout=compact)
 <img src ="https://github-readme-stats.vercel.app/api/wakatime?username=@omotomiwa26&show_icons=true&theme=tokyonight&layout=compact">
 
@@ -54,6 +63,7 @@ My name is [Omotomiwa](https://github.com/omotomiwa26) 👋 I am a _software_ _e
 <p> 
  
   <a href="https://twitter.com/i_am_omotomiwa" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> 
+ <img src="https://komarev.com/ghpvc/?username=omotomiwa26&label=Profile%20views&color=0e75b6&style=flat" alt="omotomiwa26" />
   <a href="https://www.linkedin.com/in/afonja-omotomiwa-6b80b61b2/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
  
 </p>
