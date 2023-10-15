@@ -64,7 +64,7 @@ My name is [Omotomiwa](https://github.com/omotomiwa26) 👋 I am a _software_ _e
 <p> 
  
   <a href="https://twitter.com/i_am_omotomiwa" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> 
- <img src="https://komarev.com/ghpvc/?username=omotomiwa26&label=Profile%20views&color=0e75b6&style=flat" alt="omotomiwa26" />
+ <img src="https://komarev.com/ghpvc/?username=omotomiwa26&show_icons=true&theme=tokyonight&layout=compact&label=Profile%20views&color=0e75b6&style=flat" alt="omotomiwa26" />
   <a href="https://www.linkedin.com/in/afonja-omotomiwa-6b80b61b2/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
  
 </p>
