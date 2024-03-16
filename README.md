@@ -8,36 +8,10 @@ My name is [Omotomiwa](https://github.com/omotomiwa26) 👋 I am a _software_ _e
 
  <div align="center">
 <p> 
- 
-  ![Java](https://img.shields.io/badge/-Java-05122A?style=plastic&logo=openjdk)
-  ![C](https://img.shields.io/badge/-C-05122A?style=plastic&logo=C)
-  ![Python](https://img.shields.io/badge/-Python-05122A?style=plastic&logo=python)
-  ![DotNet](https://img.shields.io/badge/-VB.Net-05122A?style=plastic&logo=dotNet)
-  ![Shell Script](https://img.shields.io/badge/-Shell_Script-05122A?style=plastic&logo=gnu-bash)
-  ![Bash](https://img.shields.io/badge/-Bash-05122A?style=plastic&logo=gnu-bash)
-  ![Vim](https://img.shields.io/badge/-Vim-05122A?style=plastic&logo=vim)
-  ![Emacs](https://img.shields.io/badge/-Emacs-05122A?style=plastic&logo=gnu-emacs)
-  ![Git](https://img.shields.io/badge/-Git-05122A?style=plastic&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=plastic&logo=github)
-  ![Wakatimt](https://img.shields.io/badge/-Wakatime-05122A?style=plastic&logo=wakatime)
-  ![Vercel](https://img.shields.io/badge/-Vercel-05122A?style=plastic&logo=vercel)
-  ![Linux](https://img.shields.io/badge/-Linux-05122A?style=plastic&logo=linux)
-  ![Vagrant](https://img.shields.io/badge/-Vagrant-05122A?style=plastic&logo=vagrant)
-  ![Ubuntu](https://img.shields.io/badge/-Ubuntu-05122A?style=plastic&logo=ubuntu)
-  ![MicrosoftSQLServer](https://img.shields.io/badge/-Microsoft%20SQL%20Server-05122A?style=plastic&logo=microsoft%20sql%20server)
-  ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=plastic&logo=mysql)
-  ![Oracle](https://img.shields.io/badge/-Oracle-05122A?style=plastic&logo=oracle)
-  ![Excel](https://img.shields.io/badge/-Excel-05122A?style=plastic&logo=excel)
-  ![Postgres](https://img.shields.io/badge/-Postgres-05122A?style=plastic&logo=postgresql)
-  ![Azure Data Studio](https://img.shields.io/badge/-Azure%20Data%20Studio-05122A?style=plastic&logo=microsoftazure)
-  ![MySQL Workbench](https://img.shields.io/badge/-MySQL%20Workbench-05122A?style=plastic&logo=mysql)
-  ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-05122A?style=plastic&logo=Visual-Studio)
-  ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=plastic&logo=Eclipse)
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=plastic&logo=Visual-Studio-Code)
-  ![PowerBi Desktop](https://img.shields.io/badge/-PowerBi%20Desktop-05122A?style=plastic&logo=PowerBi-Desktop)
-  ![Trello](https://img.shields.io/badge/-Trello-05122A?style=plastic&logo=trello)
- 
-  </p>
+ <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,dotnet,c,css,html,python,flask,js,mysql,postgres,git,github,linux,ubuntu,bash,vim,emacs,visualstudio,eclipse,vscode,vercel,azure,nginx,cmake&theme=dark&perline=8" />
+  </a>
+</p>
  </div> 
  
 <div align="center">
