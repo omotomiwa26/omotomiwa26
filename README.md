@@ -19,8 +19,9 @@ My name is [Omotomiwa](https://github.com/omotomiwa26) 👋 I am a _software_ _e
 
 ### :fire: My Stats :
 <div align="center">
- 
-![Omotomiwa26's GitHub stats](https://https-github-com-omotomiwa26-github-read-git-054ecc-omotomiwa26.vercel.app/api?username=omotomiwa26&show_icons=true&theme=tokyonight)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=omotomiwa26&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) 
+# ![Omotomiwa26's GitHub stats](https://https-github-com-omotomiwa26-github-read-git-054ecc-omotomiwa26.vercel.app/api?username=omotomiwa26&show_icons=true&theme=tokyonight)
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=omotomiwa26&&show_icons=true&theme=tokyonight" alt="omotomiwa26"/>
 
