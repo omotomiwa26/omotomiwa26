@@ -10,19 +10,23 @@ My name is [Omotomiwa](https://github.com/omotomiwa26) 👋 I am a _software_ _e
 
  ### :hammer_and_wrench: Languages and Tools :
  <div align="center">
+  
 <p> 
  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,dotnet,c,css,html,python,flask,js,mysql,postgres,git,github,linux,ubuntu,bash,vim,emacs,visualstudio,eclipse,vscode,vercel,azure,nginx,cmake&theme=dark&perline=8" />
   </a>
+ 
 </p>
  </div> 
 
 ### :fire: My Stats :
+<div align="center">
+
+<img src ="https://github-readme-stats.vercel.app/api/wakatime?username=@omotomiwa26&show_icons=true&theme=tokyonight&layout=compact">
+ 
 ![Omotomiwa26's GitHub stats](https://https-github-com-omotomiwa26-github-read-git-054ecc-omotomiwa26.vercel.app/api?username=omotomiwa26&show_icons=true&theme=tokyonight)
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=omotomiwa26&&show_icons=true&theme=tokyonight" alt="omotomiwa26"/>
-
-<img src ="https://github-readme-stats.vercel.app/api/wakatime?username=@omotomiwa26&show_icons=true&theme=tokyonight&layout=compact">
 
 ![Omotomiwa26's Top Langs](https://https-github-com-omotomiwa26-github-read-git-054ecc-omotomiwa26.vercel.app/api/top-langs/?username=omotomiwa26&show_icons=true&theme=tokyonight&langs_count=10&layout=compact)
 
