@@ -12,9 +12,9 @@
 
 - 🎓 Software Engineering student at [ALX Africa](https://www.alxafrica.com).
 - 💻 I speak `C`, `Java`, `Python` and `SQL` to computers.
-- 🤖 Interests: `Data Science`, `Machine Learning`, `Artificial Intelligence`.
+- 🤖 Research Interests: `Software Engineering`, `Human Computer Intearction`, `Data Structures And Alogorithms`.
 - 🖥️ Familiar with Shell Scripts, CLI, Linux, Vi, and Emacs.
-- 🌍 Passionate about solving user problems with technology.
+- 🌍 Passionate about solving user problems and enhancing user engagement with technology and gamification.
 
 ---
 
