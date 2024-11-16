@@ -28,7 +28,7 @@
   <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,ubuntu,bash,emacs,vim,postman" />
 
 - **Frameworks & Platforms:**
-  <img src="https://skillicons.dev/icons?i=flask,mysql,postgres,azure,mongoDB,nginx" />
+  <img src="https://skillicons.dev/icons?i=flask,mysql,postgres,azure,mongo,nginx" />
 
 </div>
 
@@ -43,6 +43,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=omotomiwa26&repo=simple_shell&theme=tokyonight)](https://github.com/omotomiwa26/simple_shell)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=omotomiwa26&repo=Java-GUI-Grade-Calculator-&theme=tokyonight)](https://github.com/omotomiwa26/Java-GUI-Grade-Calculator-)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=omotomiwa26&repo=Book-Management-System&theme=tokyonight)](https://github.com/omotomiwa26/Book-Management-System)
 
 ---
 
