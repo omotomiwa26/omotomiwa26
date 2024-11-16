@@ -22,13 +22,13 @@
 <div align="center">
   
 - **Languages:**
-  <img src="https://skillicons.dev/icons?i=java,python,c,js,html,css" />
+  <img src="https://skillicons.dev/icons?i=java,python,c,js,html,css,php,nodejs" />
   
 - **Tools:**
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,ubuntu,bash,emacs,vim" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,ubuntu,bash,emacs,vim,postman" />
 
 - **Frameworks & Platforms:**
-  <img src="https://skillicons.dev/icons?i=flask,mysql,postgres,azure,nginx" />
+  <img src="https://skillicons.dev/icons?i=flask,mysql,postgres,azure,mongoDB,nginx" />
 
 </div>
 
@@ -36,6 +36,7 @@
 
 ### :star: Projects
 - [LexiVault](https://github.com/omotomiwa26/Lexi_Vault) – An Advanced Web App Dictionary.
+- [Book-Management-System](https://github.com/omotomiwa26/Book-Management-System)) – A RESTful API documentation for a Book Management System with user authentication, profile management, and book management.
 - [simple_shell](https://github.com/omotomiwa26/simple_shell) – A simple UNIX commandline interpreter.
 - [Java-GUI-Grade-Calculator](https://github.com/omotomiwa26/Java-GUI-Grade-Calculator-) – Java Grade calculator with class of grade using java graphical user interface JFrame.
 - [Mathematical-software](https://github.com/omotomiwa26/Mathematical-software) – Application for mathematical calculations (Matrices, Permutation, Combination, Quadratic and Factorial).
