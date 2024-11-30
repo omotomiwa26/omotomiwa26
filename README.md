@@ -22,13 +22,13 @@
 <div align="center">
   
 - **Languages:**
-  <img src="https://skillicons.dev/icons?i=java,python,c,js,html,css,php,nodejs" />
+  <img src="https://skillicons.dev/icons?i=java,python,c,js,html,css,php" />
   
 - **Tools:**
   <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,ubuntu,bash,emacs,vim,postman" />
 
 - **Frameworks & Platforms:**
-  <img src="https://skillicons.dev/icons?i=flask,mysql,postgres,azure,mongo,nginx" />
+  <img src="https://skillicons.dev/icons?i=flask,nodejs,mysql,postgres,azure,mongo,nginx" />
 
 </div>
 
