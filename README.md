@@ -25,7 +25,7 @@
   <img src="https://skillicons.dev/icons?i=java,python,c,js,html,css,php" />
   
 - **Tools:**
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,ubuntu,bash,emacs,vim,postman" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,visualstudio,ubuntu,bash,emacs,vim,postman" />
 
 - **Frameworks & Platforms:**
   <img src="https://skillicons.dev/icons?i=flask,nodejs,mysql,postgres,azure,mongo,nginx" />
