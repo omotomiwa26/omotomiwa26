@@ -11,7 +11,7 @@
 ### :man_technologist: About Me
 
 - 🎓 Software Engineering student at [ALX Africa](https://www.alxafrica.com).
-- 💻 I speak `C`, `Java`, `Python` and `SQL` to computers.
+- 💻 I speak `C`, `Java`, `Python`, `Javascript` and `SQL` to computers.
 - 🤖 Research Interests: `Software Engineering`, `Human Computer Intearction`, `Data Structures And Alogorithms`.
 - 🖥️ Familiar with Shell Scripts, CLI, Linux, Vi, and Emacs.
 - 🌍 Passionate about solving user problems and enhancing user engagement with technology and gamification.
