@@ -35,8 +35,9 @@
 ---
 
 ### :star: Projects
+- [(Budgetly)Personal-Finance-Manager](https://github.com/CaptainSani/personal-finance-manager) – A fullstack webapp to help users manage their budgets and track finances effectively, The application includes features for creating budgets, tracking transactions, managing financial goals, categorizing expenses, and generating financial insight.
 - [LexiVault](https://github.com/omotomiwa26/Lexi_Vault) – An Advanced Web App Dictionary.
-- [Book-Management-System](https://github.com/omotomiwa26/Book-Management-System)) – A RESTful API documentation for a Book Management System with user authentication, profile management, and book management.
+- [Book-Management-System](https://github.com/omotomiwa26/Book-Management-System) – A RESTful API documentation for a Book Management System with user authentication, profile management, and book management.
 - [simple_shell](https://github.com/omotomiwa26/simple_shell) – A simple UNIX commandline interpreter.
 - [Java-GUI-Grade-Calculator](https://github.com/omotomiwa26/Java-GUI-Grade-Calculator-) – Java Grade calculator with class of grade using java graphical user interface JFrame.
 - [Mathematical-software](https://github.com/omotomiwa26/Mathematical-software) – Application for mathematical calculations (Matrices, Permutation, Combination, Quadratic and Factorial).
